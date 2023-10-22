@@ -1,7 +1,7 @@
 -## Support and Feedback
 
 - For any questions or issues, please join our [support server](https://discord.gg/UV22V6fEAv) for assistance.
-- Check out the [public version](https://discord.com/api/oauth2/authorize?client_id=1129067271977959566&permissions=8&scope=bot%20applications.commands) of the chat bot for a live demo.
+- Check out the [public version](https://discord.com/api/oauth2/authorize?client_id=1119317162486677525&permissions=18683175369841&scope=bot%20applications.commands) of the chat bot for a live demo.
 
 # Discord ChatBot
 
